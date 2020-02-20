@@ -1,0 +1,13 @@
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\customerproducttask.exe.config
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\customerproducttask.exe
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\customerproducttask.pdb
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\EntityFramework.dll
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\EntityFramework.SqlServer.dll
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\EntityFramework.xml
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\bin\Debug\EntityFramework.SqlServer.xml
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.exe
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.pdb
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.Migrations.customerproduct.resources
+d:\Users\Admin\source\repos\customerproducttask\customerproducttask\obj\Debug\customerproducttask.csproj.GenerateResource.Cache
